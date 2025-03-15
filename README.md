@@ -24,3 +24,5 @@
     }, 60000); // Every 1 minutes
 })();
 ```
+
+3、打开https://node.hyper.space/ 开始挂机
